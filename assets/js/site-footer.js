@@ -94,7 +94,7 @@ footerScript.insertAdjacentHTML(
 
       <div class="border-t border-white/10 pt-6 md:pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
         <p class="text-white/40 text-xs md:text-sm text-center md:text-left">
-          <a href="https://www.edonesolution.com/" target="_blank" rel="noopener noreferrer">© 2026 Edone Solutions. All rights reserved.</a>
+          <a href="https://www.edonesolution.com/" target="_blank" rel="noopener noreferrer">© 2026 <a href="https://sarstechno.com/">SARS Technologies</a>. All rights reserved.</a>
         </p>
         <button type="button" onclick="window.scrollTo({ top: 0, behavior: 'smooth' })"
           class="w-10 h-10 md:w-12 md:h-12 bg-gradient-to-br from-secondary to-lightgold text-primary rounded-full flex items-center justify-center hover:shadow-lg hover:shadow-secondary/30 transition-all duration-300 transform hover:scale-110"
